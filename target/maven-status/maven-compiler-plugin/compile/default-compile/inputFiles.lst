@@ -1,12 +1,12 @@
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/algorithms/DistanceMetric.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/service/VectorDBService.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/VectorDbApplication.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/algorithms/KDTree.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/algorithms/BruteForce.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/model/VectorItem.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/service/DocumentDBService.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/service/OllamaClient.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/controller/VectorController.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/algorithms/HNSW.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/model/DocItem.java
-/Users/mr_sourabh/Downloads/vectordb-java/src/main/java/com/vectordb/config/WebConfig.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\model\DocItem.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\VectorDbApplication.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\service\OllamaClient.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\algorithms\BruteForce.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\model\VectorItem.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\config\WebConfig.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\algorithms\HNSW.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\algorithms\KDTree.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\service\DocumentDBService.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\controller\VectorController.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\algorithms\DistanceMetric.java
+D:\Java Vector AI\JavaVectorAI\src\main\java\com\vectordb\service\VectorDBService.java
